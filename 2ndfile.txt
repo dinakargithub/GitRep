@@ -1,0 +1,3 @@
+I am planning to write some exm file
+<emp>dinaka </emp>
+<age>22</age>
